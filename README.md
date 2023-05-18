@@ -1,4 +1,4 @@
-# Oiiii!!! Eu sou a Flávia Fernanda 👋
+# Oiiii!!! Eu sou a Flávia Santos 👋
 
 - 💻 Desenvolvedora Web Full Stack em Formação
 - 🔭 Extremamente curiosa e amante da tecnologia  
