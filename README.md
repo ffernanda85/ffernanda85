@@ -33,4 +33,3 @@
   
 ###
 
-<img src="https://github.com/ffernanda85/ffernanda85/blob/main/snake.svg" alt="Snake animation" />
